@@ -4,8 +4,8 @@ I'm Yasemin.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyraminxx&theme=tokyonight)
 
-<h1 align="center">Hi 👋, I'm Yasemin</h1>
-- 🌱 I’m currently learning **Java, Junit**
+
+- 🌱 I’m currently learning Java, Junit 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
