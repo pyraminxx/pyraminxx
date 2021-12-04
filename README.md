@@ -13,6 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker To Remember](https://yaseminzeynep.medium.com/docker-to-remember-8ef9bcac477e?source=rss-7ad836f9ecb0------2)
+- [Demonstrating the CLT in Matlab](https://yaseminzeynep.medium.com/demonstrating-the-clt-in-matlab-3850cb399a9a?source=rss-7ad836f9ecb0------2)
+- [Internet of Things](https://yaseminzeynep.medium.com/internet-of-things-f6f7723ab5ee?source=rss-7ad836f9ecb0------2)
+- [Software Defined Radio &lpar;SDR&rpar;](https://yaseminzeynep.medium.com/software-defined-radio-sdr-a753637fc82?source=rss-7ad836f9ecb0------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
