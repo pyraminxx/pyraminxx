@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Yasemin.
+<h1> I'm Yasemin.</h1>
+
+<h3>I'm currently working as Jr Network Engineer. I'm generally interested generally interested in communication, security, and software technologies.</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyraminxx&theme=tokyonight)
 
