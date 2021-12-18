@@ -9,7 +9,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyraminxx&theme=tokyonight)
 -->
 
-- 🌱 I’m currently learning Java, Junit 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
