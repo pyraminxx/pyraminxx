@@ -22,6 +22,7 @@
 
 Here are some ideas to get you started:
 -->
+### Additional Info
 - 🔭 I’m currently working on test automation scripts
 - 🌱 I’m currently learning Javascript
 <!--
