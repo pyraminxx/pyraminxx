@@ -1,10 +1,13 @@
-### Hi there 👋
+### Hello 👋
 
 <h3> I'm Yasemin Çeven.</h1>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaseminceven&show_icons=true&locale=en&layout=compact" alt="yaseminceven" /></p>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yaseminceven&show_icons=true&theme=dark)
+
+
 <!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyraminxx&theme=tokyonight)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaseminceven&show_icons=true&locale=en&layout=compact" alt="yaseminceven" /></p>
+![](https://visitor-badge.laobi.icu/badge?page_id=yaseminceven.yaseminceven)
 -->
 
 
@@ -19,9 +22,8 @@
 
 <!--
 **pyraminxx/pyraminxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -->
+
 ### Additional Info
 - 🔭 I’m currently working on test automation scripts
 - 🌱 I’m currently learning Javascript
@@ -30,6 +32,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
